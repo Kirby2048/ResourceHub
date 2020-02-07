@@ -20,6 +20,7 @@ These are subject to change at any time, so keep your eye out!
 
 | Game Name                | Status | Note                                                                                             |
 | ------------------------ |:------:|:------------------------------------------------------------------------------------------------:|
+|Crossout                  | ✔️    | In windows mode, the goose would drag out the mouse, causing user click outside the windows      |
 | CS:GO                    | ✔️    |                                                                                                  |
 | Fortnite                 | ❓     |  
 | Garry's Mod| ✔️❌|Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
